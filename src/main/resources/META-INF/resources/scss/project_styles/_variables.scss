@@ -25,6 +25,8 @@ $mhhRedLight:     rgb(249, 177, 161); //#f9b1a1 footer links
 $mhhOrange:       rgb(237, 92, 60);   //#ed5c3c interaktive elements
 $mhhOrangeDark:   rgb(240, 60, 20);   //#f03c14 headline
 
+$gray-light:       $mhhGrayLight;
+
 // --------------------------------------------------
 //  overwrite bootstrap
 // --------------------------------------------------
@@ -62,7 +64,7 @@ $pagination-disabled-border-color: $mhhBrown;
 //  Projects settings
 // --------------------------------------------------
 
-$menu-hover:    #002954;
-$footer-back:   #151b20;
+$menu-hover:    #FFFFFF;
+$footer-back:   $mhhBrown;
 $body-bg:       #FFFFFF;
 $content-back:  #eaeaea;

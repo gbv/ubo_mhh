@@ -62,13 +62,14 @@
     .navbar-expand-lg .navbar-nav .nav-link {
       padding-right: 1.2rem;
       padding-left: 1.2rem;
+      color: #fff;
     }
   }
 
   // overwrite bootswatch settings
   .bg-primary {
     .navbar-nav .active > .nav-link {
-      color: white !important;
+      color: $mhhBlackLight !important;
     }
   }
 
@@ -78,10 +79,16 @@
 
   .mir-main-nav nav .navbar-nav > li > a:hover {
     background-color: $menu-hover;
+    color: $mhhBlackLight;
+  }
+
+  .navbar-dark .navbar-nav .nav-link:hover {
+    color: $mhhBlackLight;
   }
 
   .mir-main-nav nav .navbar-nav > li.active > a {
     background-color: $menu-hover;
+    color: $mhhBlackLight;
   }
 
   .dropdown-menu {
@@ -91,13 +98,13 @@
   .mir-main-nav nav .navbar-nav .dropdown-menu {
     background-color: white;
     box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25), 0px -1px 1px rgba(0, 0, 0, 0.15);
-    border-bottom: 3px solid #61186a;
+    border-bottom: 3px solid $mhhRed;
     margin-top: 0px !important;
     border-radius: $border-radius !important; //TODO: remove when reason was fixed
   }
 
   .mir-main-nav nav .navbar-nav .dropdown-menu > li > a {
-    color: #61186a;
+    color: $mhhRed;
   }
 
   .mir-main-nav nav .navbar-nav .dropdown-menu > li:not(:last-child) > a {
@@ -106,14 +113,14 @@
 
   .mir-main-nav nav .navbar-nav .dropdown-menu > li > a:hover,
   .mir-main-nav nav .navbar-nav .dropdown-menu > li > a:focus {
-    color: #61186a;
+    color: $mhhRed;
     background-color: #eaeaea;
   }
 
   .mir-main-nav nav .navbar-nav .dropdown-menu > .active > a,
   .mir-main-nav nav .navbar-nav .dropdown-menu > .active > a:hover,
   .mir-main-nav nav .navbar-nav .dropdown-menu > .active > a:focus {
-    color: #61186a;
+    color: $mhhRed;
     background-color: #eaeaea;
   }
 

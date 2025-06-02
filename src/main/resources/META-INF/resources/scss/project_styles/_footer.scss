@@ -14,9 +14,10 @@
     background-color: transparent;
   }
 
-  #footerLogo img {
-    width: 130px;
-    height: auto;
+  #footerLogo svg {
+    color: #fff;
+    height: 120px;
+    width: 300px;
   }
 
   #powered_by {
@@ -57,7 +58,7 @@
   }
 
   .footer-menu {
-    background-color: $p-petrol;
+    background-color: $mhhBlackLight;
     padding: 1rem 0 1rem 0;
   }
 
