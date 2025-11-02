@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE webpage>
+
+<webpage lastModified="$Date$" id="dozbib.info">
+  <title xml:lang="de">Fragen, Antworten, Quintessenzen (FAQ)</title>
+
+  <div class="row">
+    <div class="col-12 col-md-8">
+
+      <article class="card mb-3" xml:lang="de">
+        <div class="card-body">
+          <p>
+            Die Hochschulbibliografie dient der Erfassung, Präsentation und Dokumentation der Publikationsleistungen
+            aller Beschäftigten ...
+          </p>
+          <p>
+            Alle Eintragungen werden von der Hochschulbibliothek überprüft, ggf. korrigiert und final freigegeben.
+          </p>
+        </div>
+      </article>
+    </div>
+
+    <div class="col-12 col-md-4">
+      <article class="card mb-3" xml:lang="de">
+        <div class="card-body">
+          <h3>Links:</h3>
+          <ul>
+            <li>Meldung neuer Publikationen: <a href="https://www.youtube.com/watch?v=AGyr-2xbh7c">YouTube</a> / <a href="https://www.mhh.de/fileadmin/mhh/bibliothek/multimedia/HoBi_Melden_2023-11-24_2023-11-24.mp4">Video</a></li>
+            <li>PuDalys: <a href="https://youtu.be/1yTYSh6l9-Q">YouTube</a> / <a href="https://www.mhh.de/fileadmin/mhh/bibliothek/multimedia/PuDalys_2022-08-10.mp4">Video</a></li>
+            <li>Kurzanleitung zur <a href="https://www.mhh.de/fileadmin/mhh/bibliothek/pdf/eingabeanleitung_zur_meldung_neuer_publikationen.pdf">Meldung neuer Publikationen</a></li>
+            <li>Kurzanleitung zum <a href="https://www.mhh.de/fileadmin/mhh/bibliothek/pdf/Zum_Hochladen_der_Dokumente.pdf">Hochladen des Peer-Review-Nachweises</a></li>
+          </ul>
+        </div>
+      </article>
+    </div>
+  </div>
+
+  <article class="card mb-3" xml:lang="de">
+    <div class="card-body">
+      <h2>FAQ</h2>
+
+      <div class="accordion" id="accordionExample">
+        <div class="card">
+          <div class="card-header" id="headingOne">
+            <h2 class="mb-0">
+              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                <i class="fas fa-plus-circle"></i>
+                <i class="fas fa-minus-circle"></i>
+                Wer gibt in der Abteilung die Daten ein?
+              </button>
+            </h2>
+          </div>
+          <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+            <div class="card-body">
+              <p>
+                Das legt die Abteilungsleitung fest.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="headingTwo">
+            <h2 class="mb-0">
+              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                <i class="fas fa-plus-circle"></i>
+                <i class="fas fa-minus-circle"></i>
+                Können falsche / unvollständige Angaben nach dem Absenden korrigiert werden?
+              </button>
+            </h2>
+          </div>
+          <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+            <div class="card-body">
+              <p>
+                Nein. Änderungswünsche senden Sie bitte per Mail an information.bibliothek@mh-hannover.de.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="headingThree">
+            <h2 class="mb-0">
+              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                <i class="fas fa-plus-circle"></i>
+                <i class="fas fa-minus-circle"></i>
+                Wie werden Dubletten vermieden?
+              </button>
+            </h2>
+          </div>
+          <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+            <div class="card-body">
+              <p>
+                In der Bibliothek werden Doppeleintragungen im Rahmen der weiteren Bearbeitung mittels Dublettencheck
+                eliminiert.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="headingFour">
+            <h2 class="mb-0">
+              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                <i class="fas fa-plus-circle"></i>
+                <i class="fas fa-minus-circle"></i>
+                Was ist zu tun, wenn Einzelheiten zu den MHH-fremden Autoren nicht bekannt sind?
+              </button>
+            </h2>
+          </div>
+          <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+            <div class="card-body">
+              <p>
+                Jede Abteilung meldet nur die Einzelheiten zu den eigenen Autoren. Da davon auszugehen ist, dass jede beteiligte Abteilung die Publikation meldet,
+                sind nach dem Zusammenführen durch Bibliotheksmitarbeiter:innen die Daten vollständig. Informationen zu MHH-fremden Autoren sind in diesem Zusammenhang
+                irrelevant.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="headingFive">
+            <h2 class="mb-0">
+              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                <i class="fas fa-plus-circle"></i>
+                <i class="fas fa-minus-circle"></i>
+                Wer aktualisiert die bibliografischen Angaben?
+              </button>
+            </h2>
+          </div>
+          <div id="collapseFive" class="collapse faq-types" aria-labelledby="headingFive" data-parent="#accordionExample">
+            <div class="card-body">
+              <p>
+                Bei einer Publikation, die z. B. als "epub ahead of print" für die Hochschulbibliografie gemeldet wurde, werden durch Bibliotheksmitarbeiter:innen
+                die Angaben des Print Artikels später ergänzt.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="headingSix">
+            <h2 class="mb-0">
+              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                <i class="fas fa-plus-circle"></i>
+                <i class="fas fa-minus-circle"></i>
+                Wann erscheinen die eingegebenen Daten in der Hochschulbibliografie?
+              </button>
+            </h2>
+          </div>
+          <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
+            <div class="card-body">
+              <p>
+                Im Allgemeinen dauert die Bearbeitung ca. drei bis vier Tage.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="headingSeven">
+            <h2 class="mb-0">
+              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                <i class="fas fa-plus-circle"></i>
+                <i class="fas fa-minus-circle"></i>
+                Wo werden die Impact Faktoren ergänzt?
+              </button>
+            </h2>
+          </div>
+          <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample">
+            <div class="card-body">
+              <p>
+                Die Impact Faktoren werden durch Bibliotheksmitarbeiter:innen ergänzt.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="headingEight">
+            <h2 class="mb-0">
+              <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                <i class="fas fa-plus-circle"></i>
+                <i class="fas fa-minus-circle"></i>
+                Muss ich auch Dissertationen an die Hochschulbibliografie melden?
+              </button>
+            </h2>
+          </div>
+          <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionExample">
+            <div class="card-body">
+              <p>
+                An der MHH eingereichte Dissertationen müssen nicht an die Hochschulbibliografie gemeldet werden, da sie über die abgegebenen Pflichtexemplare registriert werden.
+                Dissertationen in Kooperation mit anderen Hochschulen, von denen die MHH-Bibliothek keine Pflichtexemplare erhält, müssen hingegen an die Hochschulbibliografie
+                gemeldet werden.
+              </p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </article>
+
+
+</webpage>

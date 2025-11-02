@@ -228,9 +228,6 @@
                 <h1>
                   <xsl:value-of select="i18n:translate('mhh.ubo')" />
                 </h1>
-                <h2>
-                  <xsl:value-of select="i18n:translate('mhh.ubo.subTitle')" />
-                </h2>
               </a>
             </div>
           </div>

@@ -1,39 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <webpage lastModified="$Date$" id="dozbib">
- <title xml:lang="de">Willkommen bei der Bibliographie der Medizinischen Hochschule Hannover</title>
- <title xml:lang="en">Welcome to Bibliography of the Hannover Medical School </title>
+ <title xml:lang="de">Willkommen bei der Hochschulbibliografie der MHH</title>
+ <title xml:lang="en">Welcome to Bibliography of the MHH</title>
 
  <article class="card mb-3" xml:lang="de">
    <div class="card-body">
-     <h3>Die Hochschulbibliographie HoBi</h3>
+     <h3>Die Hochschulbibliografie HoBi</h3>
       <p>
-        ist der zentrale Publikationsnachweis der Medizinischen Hochschule Hannover, der online die Publikationstätigkeit verzeichnet.
-        Die Einträge beruhen großenteils auf den Angaben der Autoren selbst.
+        Beginnend mit dem Jahr 2008 erfasst die Bibliothek alle Publikationen von MHH-Angehörigen. Die
+        erhobenen Daten dienen neben der Berechnung der leistungsorientierten Mittelvergabe (LOM) seitens
+        des Präsidiums dem Aufbau einer Hochschulbibliografie der MHH.
       </p>
-      <h3>Sie sind Angehöriger der Medizinischen Hochschule Hannover?</h3>
       <p>
-        Helfen Sie uns bei der Vervollständigung!<br/>
-        <a href="../newPublication.xed">Hier können Sie Ihre Publikation an die Bibliographie melden</a>
+        Die Publikationen, die in der Hochschulbibliografie gemeldet werden, werden zudem in das
+        <a href="https://www.mhh.de/forschung/fis">Forschungsinformationssystem</a> der MHH importiert.
+        Hier gilt, je aktueller die Publikationen gemeldet
+        werden, desto aktueller werden diese im Forschungsinformationssystem ausgegeben.
+      </p>
+      <p>
+        Die <a href="https://webext.mh-hannover.de/bib/lom/index.php">Meldung neuer Publikationen</a> erfolgt
+        mittels automatischen Datentransfers aus <a href="https://pubmed.ncbi.nlm.nih.gov/?otool=idemhhlib">PubMed</a>
+        mit dem MHH-Linksystem oder manuell über das Erfassungsformular Meldung neuer Publikationen.
       </p>
    </div>
  </article>
-  <!--  article class="card mb-3" xml:lang="en">
+ <article class="card mb-3" xml:lang="en">
     <div class="card-body">
-      <h3>The University Bibliography</h3>
+      <h3>The University Bibliography HoBi</h3>
       <p>
-        is the central resource of Duisburg-Essen University that lists all publication activities of the university members.
-        The entries are mainly based on information provided by the authors themselves.
-        The bibliography is run by the university library. Since September, 2010 an editoral team revises and completes new entries.
+        Since 2008, the library has been recording all publications by members of Hannover Medical School (MHH).
+        The collected data are used both for calculating the performance-based funding allocation (LOM) by the
+        university administration and for building the MHH University Bibliography.
       </p>
-      <h3>
-        As a member of Duisburg Essen University</h3>
       <p>
-        Help us to complete the bibliography!<br/>
-        <a href="../newPublication.xed">Here you can register your own publication</a>
+        Publications reported to the University Bibliography are also imported into the
+        <a href="https://www.mhh.de/forschung/fis">Research Information System</a> of MHH.
+        The more promptly publications are reported, the more up-to-date the information displayed in the
+        Research Information System will be.
+      </p>
+      <p>
+        <a href="https://webext.mh-hannover.de/bib/lom/index.php">Reporting new publications</a> can be done
+        automatically via data transfer from <a href="https://pubmed.ncbi.nlm.nih.gov/?otool=idemhhlib">PubMed</a>
+        using the MHH link system, or manually through the submission form for reporting new publications.
       </p>
     </div>
-  </article -->
+  </article>
 
   <article class="card mb-3">
     <div class="card-body">
@@ -89,8 +101,12 @@
           <h3>Kontakt:</h3>
         </hgroup>
         <p>
-          <a href="mailto:xxx@xxx.de">
-            <span>xxx<br/>@xxx.de</span>
+          <b>Information und Beratung</b><br />
+          Bibliothek der MHH - OE 8900<br />
+          Tel.: +49 511 532-3326<br />
+          E-Mail:
+          <a href="mailto:information.bibliothek@mh-hannover.de">
+            <span>information.bibliothek<br />@mh-hannover.de<br/></span>
           </a>
         </p>
       </div>
@@ -101,8 +117,12 @@
           <h3>Contact:</h3>
         </hgroup>
         <p>
-          <a href="mailto:xxx@xxx.de">
-            <span>xxx<br/>@xxx.de</span>
+          <b>Information und Beratung</b><br />
+          Bibliothek der MHH - OE 8900<br />
+          Tel.: +49 511 532-3326<br />
+          E-Mail:
+          <a href="mailto:information.bibliothek@mh-hannover.de">
+            <span>information.bibliothek<br />@mh-hannover.de<br/></span>
           </a>
         </p>
       </div>

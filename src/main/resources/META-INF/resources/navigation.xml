@@ -39,7 +39,11 @@
       <label xml:lang="en">Register a publication</label>
       <item id="dozbib.edit.publication" />
     </item>
-    <item ref="list-wizard.xed" id="dozbib.list-wizard">
+    <!-- item ref="list-wizard.xed" id="dozbib.list-wizard">
+      <label xml:lang="de">Persönliche Publikationsliste</label>
+      <label xml:lang="en">Personal publication list</label>
+    </item -->
+    <item ref="comingsoon.xml" id="dozbib.list-wizard">
       <label xml:lang="de">Persönliche Publikationsliste</label>
       <label xml:lang="en">Personal publication list</label>
     </item>
@@ -48,7 +52,7 @@
       <label xml:lang="en">Statistics</label>
     </item>
     <item ref="info.xml" id="dozbib.info">
-      <label xml:lang="de">Informationen</label>
+      <label xml:lang="de">Information</label>
       <label xml:lang="en">Information</label>
     </item>
     <item ref="import-list.xed" role="admin">
@@ -100,7 +104,7 @@
   </item>
 
   <item menu="footer">
-    <item ref="impressum.xml" icon="comments">
+    <item href="https://www.mhh.de/impressum" icon="comments">
       <label xml:lang="de">Impressum</label>
       <label xml:lang="en">Imprint</label>
     </item>
@@ -108,7 +112,7 @@
       <label xml:lang="de">Datenschutz</label>
       <label xml:lang="en">Privacy policy</label>
     </item>
-    <item ref="accessibility.xml" icon="universal-access">
+    <item href="https://www.mhh.de/barrierefreiheit" icon="universal-access">
       <label xml:lang="de">Barrierefreiheit</label>
       <label xml:lang="en">Accessibility</label>
     </item>
