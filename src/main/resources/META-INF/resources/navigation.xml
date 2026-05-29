@@ -62,14 +62,18 @@
   </item>
 
   <item menu="user">
-    <item ref="servlets/MCRUserServlet?action=show">
+    <item id="user.password" ref="servlets/MCRUserServlet?action=changeMyPassword">
+      <label xml:lang="de">Passwort ändern</label>
+      <label xml:lang="en">Change password</label>
+    </item>
+    <item id="user.profile" ref="servlets/MCRUserServlet?action=show">
       <label xml:lang="de">Mein Profil</label>
       <label xml:lang="en">My profile</label>
     </item>
   </item>
 
   <item menu="admin">
-    <item id="dozbib.duplicates" ref="duplicates.xml" role="admin">
+    <item  id="dozbib.duplicates" ref="dedup/" role="admin">
       <label xml:lang="de">Dubletten-Bericht</label>
       <label xml:lang="en">Duplicates report</label>
     </item>
